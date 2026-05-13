@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "734033280380",
+    "project_id": "namma-yantra-share",
+    "storage_bucket": "namma-yantra-share.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:734033280380:android:4cde1de0fbb6a53e77f8f9",
+        "android_client_info": {
+          "package_name": "com.nayak.nammayantara"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDU2pD3yPQqiOzlqRI1s8RhrwszOBeiHIM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
