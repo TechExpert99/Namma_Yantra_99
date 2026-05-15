@@ -86,7 +86,7 @@ com.nayak.nammayantara/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/namma-yantra-share.git
+git clone [https://github.com/TechExpert99/Namma_Yantra_99]
 cd namma-yantra-share
 ```
 
@@ -364,8 +364,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 For issues, questions, or feedback:
-- Open an issue on [GitHub Issues](https://github.com/yourusername/namma-yantra-share/issues)
-- Email: support@nammayantara.com
+- Open an issue on [GitHub Issues](https://github.com/TechExpert99/Namma_Yantra_99))
+- Email: nayakronayak@gmail.com
 - Join our [Telegram Community](https://t.me/nammayantara) (coming soon)
 
 ---
