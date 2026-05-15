@@ -15,7 +15,8 @@ An Android application that bridges the gap between small farmers who cannot aff
 
 | Login Screen | Browse Equipment | Machine Detail | AI Chatbot |
 |---|---|---|---|
-| ![Login](screenshots/login.png) | ![Browse](screenshots/browse.png) | ![Detail](screenshots/detail.png) | ![Chat](screenshots/chat.png) |
+| ![Login](screenshots/<img width="720" height="1600" alt="login" src="https://github.com/user-attachments/assets/2508f040-074c-4955-91e1-40246c45224e" />
+) | ![Browse](screenshots/browse.png) | ![Detail](screenshots/detail.png) | ![Chat](screenshots/chat.png) |
 
 ---
 
@@ -345,8 +346,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Author
 
-**Nithin Nayak**
-- GitHub: [@yourusername](https://github.com/yourusername)
+**Nithin Nayak V N**
+- GitHub: [@TechExpert99]((https://github.com/TechExpert99/Namma_Yantra_99))
 - Email: your.email@example.com
 
 ---
