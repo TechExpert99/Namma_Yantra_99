@@ -15,7 +15,7 @@ An Android application that bridges the gap between small farmers who cannot aff
 
 | Login Screen | Browse Equipment | Machine Detail | AI Chatbot |
 |---|---|---|---|
-| ![Login](screenshots/<img width="100" height="100" alt="login" src="https://github.com/user-attachments/assets/9c88b933-207c-4ecc-9dac-a5f47aaed940" />
+| ![Login](screenshots/login.png
 
 ) | ![Browse](screenshots/browse.png) | ![Detail](screenshots/detail.png) | ![Chat](screenshots/chat.png) |
 
