@@ -9,15 +9,7 @@ An Android application that bridges the gap between small farmers who cannot aff
 [![Kotlin](https://img.shields.io/badge/Language-Kotlin-purple.svg)](https://kotlinlang.org/)
 [![Firebase](https://img.shields.io/badge/Backend-Firebase-orange.svg)](https://firebase.google.com/)
 
----
 
-## 📱 Screenshots
-
-| Login Screen | Browse Equipment | Machine Detail | AI Chatbot |
-|---|---|---|---|
-| ![Login](screenshots/login.png) | ![Browse](screenshots/browse.png) | ![Detail](screenshots/detail.png) | ![Chat](screenshots/chat.png) |
-
----
 
 ## 🌟 Features
 
